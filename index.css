@@ -1,0 +1,29 @@
+button{
+    user-select: none;
+}
+.demo{
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+    font-family: Impact;
+    margin-bottom: 5px;
+}
+p{
+    font-size: 35px;
+}
+button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white
+}
+button:hover{
+    background-color: green;
+}
+.quote{
+    margin: 0;
+}
+.quote2{
+    margin: 0;
+}

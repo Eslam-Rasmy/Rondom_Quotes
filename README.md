@@ -1,1 +1,0 @@
-# Rondom_Quotes
